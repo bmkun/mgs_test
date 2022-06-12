@@ -1,11 +1,5 @@
 # soal_programming
 
-
-
-## Getting started
-
-- CRUD Mahasiswa
-  - Save
-     - endpoint : localhost:8080/api/mahasiswa/save
-     - request body : 
+import postman url :
+https://www.postman.com/collections/300e7dddec2257892994
 
